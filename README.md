@@ -14,7 +14,7 @@ Building practical, physician-made tools at the intersection of **medical imagin
 | Repo | Stack | What it does |
 |------|-------|--------------|
 | [**dicom-viewer**](https://github.com/hwangsi/dicom-viewer) | Python · PyQt6 · pydicom | Desktop DICOM viewer for reading and lecture prep — multi-panel layouts, window width/level (WW/WL) control, DICOM tag overlay, screenshot/clipboard copy, and a series sidebar with fast header-only loading. |
-| [**GUreport**](https://github.com/hwangsi/GUreport) | HTML | Structured reporting tool for **prostate MRI** — generates clean, standardized (PI-RADS-style) structured reports. |
+| [**PIRADSreport**](https://github.com/hwangsi/PIRADSreport) | HTML | Structured reporting tool for **prostate MRI** — generates clean, standardized (PI-RADS-style) structured reports. |
 | [**ProstateMRICalculator**](https://github.com/hwangsi/ProstateMRICalculator) | Kotlin | Android app that estimates prostate volume from MRI screenshots — ML Kit OCR reads measurements and the ellipsoid formula computes volume (mL). |
 | [**adrenalMRCalc**](https://github.com/hwangsi/adrenalMRCalc) | HTML | Adrenal mass washout calculator — absolute & relative washout for characterizing adrenal lesions. |
 | [**PACSFollowup**](https://github.com/hwangsi/PACSFollowup) | Kotlin | App for tracking follow-up imaging patients — OCR (Korean + English), speech dictation, and Google Sheets sync, tuned for urogenital imaging terms. |
