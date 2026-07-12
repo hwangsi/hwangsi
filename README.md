@@ -28,6 +28,7 @@ Building practical, physician-made tools at the intersection of **medical imagin
 | [**researcher-kg**](https://github.com/hwangsi/researcher-kg) | HTML | Knowledge graph to explore researchers and their work and collaborations. |
 | [**KSRSapprover**](https://github.com/hwangsi/KSRSapprover) | Python | Automation tool for KSR administrative approval workflows. |
 | [**email-agent**](https://github.com/hwangsi/email-agent) | Python | Email management agent running as a macOS LaunchAgent — twice-daily Gmail fetch, Claude-based classification, and push notifications to iPhone via ntfy. |
+| [**CRO_lecture**](https://github.com/hwangsi/CRO_lecture) | HTML · Chart.js | Offline dashboard visualizing Korea's national cancer registry (KOSIS) — KPI cards, Top-15 incidence ranking, 1999–2023 trends, sex breakdown, and CSV export, styled in a BMW M design system. [**Live demo**](https://hwangsi.github.io/CRO_lecture/). |
 
 ---
 
