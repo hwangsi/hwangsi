@@ -12,7 +12,7 @@ Building practical, physician-made tools at the intersection of **medical imagin
 
 ---
 
-## 🩻 Radiology & Imaging Tools
+## ☢️ Radiology & Imaging Tools
 
 | Repo | Stack | What it does |
 |------|-------|--------------|
