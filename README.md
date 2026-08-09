@@ -1,7 +1,7 @@
 # Sungil Hwang (황성일 · 黃聖壹)
 
-**Radiologist · Professor**, Department of Radiology, Seoul National University Bundang Hospital (SNUBH)
-**Secretary General**, Korean Society of Radiology (KSR)
+**Radiologist · Professor**, Department of Radiology, Seoul National University Bundang Hospital (SNUBH) <br>
+**Secretary General**, Korean Society of Radiology (KSR) <br>
 **President**, Vibe Lab for Established Clinicians in SNUBH
 
 Building practical, physician-made tools at the intersection of **medical imaging, AI, and clinical workflow**.
