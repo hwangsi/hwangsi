@@ -8,6 +8,10 @@ Building practical tools at the intersection of **medical imaging, research, AI,
 
 [ORCID: 0000-0001-7516-5369](https://orcid.org/0000-0001-7516-5369) · Seongnam, Korea
 
+## [프로젝트 대시보드 · Project Dashboard ↗](https://hwangsi.github.io/project-overview.html)
+
+분야별 프로젝트를 한눈에 살펴보고, 분야 필터와 2026년 커밋 활동을 확인할 수 있습니다.
+
 ## [프로젝트 카탈로그 · Project Catalog ↗](https://hwangsi.github.io/)
 
 **[분야별 검색과 필터로 전체 프로젝트 둘러보기 →](https://hwangsi.github.io/#catalog)**  
